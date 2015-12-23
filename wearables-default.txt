@@ -1,0 +1,916 @@
+all
+	8632: All Heroes' Default Taunt (Default)
+
+dota_death_prophet_exorcism_spirit
+	8652: Death Prophet Spirit's Ambient Effects (Default)
+
+npc_dota_dire_eidolon
+	8638: Enigma Eidolon's Ambient Effects (Default)
+
+npc_dota_eidolon
+	8638: Enigma Eidolon's Ambient Effects (Default)
+
+npc_dota_furion_treant
+	8363: Nature's Prophet Treant Ambient Effects (Default)
+	8365: Juggernaut Healing Ward's Ambient Effects (Default)
+
+npc_dota_greater_eidolon
+	8638: Enigma Eidolon's Ambient Effects (Default)
+
+npc_dota_hero_abaddon
+	454: Abaddon's Weapon (Default)
+	455: Abaddon's Helmet (Default)
+	456: Abaddon's Cape (Default)
+	457: Abaddon's Shoulder Armor (Default)
+	458: Abaddon's Mount (Default)
+	522: Abaddon's Ambient Effects (Default)
+
+npc_dota_hero_alchemist
+	117: Alchemist's Goblin Body (Default)
+	118: Alchemist's Weapon (Default)
+	119: Alchemist's Saddle (Default)
+	120: Alchemist's Gauntlets (Default)
+	121: Alchemist's Goblin Hat (Default)
+	122: Alchemist's Left Bottle (Default)
+	123: Alchemist's Goblin Head (Default)
+	124: Alchemist's Ogre Head (Default)
+	125: Alchemist's Shoulder Bottle (Default)
+
+npc_dota_hero_ancient_apparition
+	172: Ancient Apparition's Head (Default)
+	501: Ancient Apparition's Ambient Effects (Default)
+
+npc_dota_hero_antimage
+	215: Anti-Mage's Head (Default)
+	216: Anti-Mage's Armor (Default)
+	217: Anti-Mage's Arms (Default)
+	218: Anti-Mage's Belt (Default)
+	335: Anti-Mage's Offhand Glaive (Default)
+	563: Antimage's Shoulders (Default)
+
+npc_dota_hero_arc_warden
+	556: Arc Warden's Bracers (Default)
+	557: Arc Warden's Shoulders (Default)
+	601: Arc Warden's Ambient Effects (Default)
+
+npc_dota_hero_axe
+	2: Axe's Axe (Default)
+	3: Axe's Shoulder Guard (Default)
+	4: Axe's Hair (Default)
+	5: Axe's Belt (Default)
+	8366: All Heroes' Default Pet (Default)
+	8653: Axe's Miscellaneous (Default)
+
+npc_dota_hero_bane
+	503: Bane's Ambient Effects (Default)
+
+npc_dota_hero_batrider
+	375: Batrider's Head (Default)
+	376: Batrider's Cloak (Default)
+	377: Batrider's Belt (Default)
+	378: Batrider's Mount (Default)
+
+npc_dota_hero_beastmaster
+	313: Beastmaster's Weapons (Default)
+	314: Beastmasters's Head (Default)
+	315: Beastmaster's Shoulder (Default)
+	316: Beastmaster's Arms (Default)
+	317: Beastmaster's Belt (Default)
+	8633: Beastmaster's Boar (Default)
+	8634: Beastmaster's Hawk (Default)
+
+npc_dota_hero_bloodseeker
+	257: Blood Seeker's Skirt (Default)
+	69: Blood Seeker's Blade (Default)
+	70: Blood Seeker's Headdress (Default)
+	71: Blood Seeker's Offhand Blade (Default)
+	72: Blood Seeker's Necklace (Default)
+	73: Blood Seeker's Cape (Default)
+	74: Blood Seeker's Bracers (Default)
+
+npc_dota_hero_bounty_hunter
+	50: Bounty Hunter's Weapon (Default)
+	51: Bounty Hunter's Offhand Weapon (Default)
+	52: Bounty Hunter's Back (Default)
+	53: Bounty Hunter's Armor (Default)
+	54: Bounty Hunter's Shoulder (Default)
+	55: Bounty Hunter's Bandana (Default)
+	564: Bounty Hunter's Arms (Default)
+
+npc_dota_hero_brewmaster
+	158: Brewmaster's Staff (Default)
+	159: Brewmaster's Barrel (Default)
+	160: Brewmaster's Bracers (Default)
+	161: Brewmaster's Backpack (Default)
+	162: Brewmaster's Shoulders (Default)
+
+npc_dota_hero_bristleback
+	436: Bristleback's Back (Default)
+	437: Bristleback's Head (Default)
+	438: Bristleback's Weapon (Default)
+	439: Bristleback's Bracers (Default)
+	440: Bristleback's Necklace (Default)
+	520: Bristleback's Ambient Effects (Default)
+	8366: All Heroes' Default Pet (Default)
+
+npc_dota_hero_broodmother
+	101: Broodmother's Hair (Default)
+	102: Broodmother's Legs (Default)
+	103: Broodmother's Abdomen (Default)
+	565: Broodmother's Miscellaneous (Default)
+	566: Broodmother's Head (Default)
+	8631: Broodmother's Spiderlings (Default)
+
+npc_dota_hero_centaur
+	358: Centaur Warrunner's Axe (Default)
+	359: Centaur Warrunner's Head (Default)
+	360: Centaur Warrunner's Shoulders (Default)
+	361: Centaur Warrunner's Belt (Default)
+	362: Centaur Warrunner's Trophies (Default)
+	363: Centaur Warrunner's Bracers (Default)
+	364: Centaur Warrunner's Tail (Default)
+	8366: All Heroes' Default Pet (Default)
+
+npc_dota_hero_chaos_knight
+	181: Chaos Knight's Horse (Default)
+	183: Chaos Knight's Shoulder Guards (Default)
+	184: Chaos Knight's Helmet (Default)
+	185: Chaos Knight's Weapon (Default)
+	186: Chaos Knight's Shield (Default)
+
+npc_dota_hero_chen
+	220: Chen's Staff (Default)
+	221: Chen's Mount (Default)
+	222: Chen's Helmet (Default)
+	223: Chen's Bracers (Default)
+	224: Chen's Shoulder Armor (Default)
+	225: Chen's Mount Armor (Default)
+	521: Chen's Ambient Effects (Default)
+	567: Chen's Miscellaneous (Default)
+
+npc_dota_hero_clinkz
+	523: Clinkz's Ambient Effects (Default)
+	56: Clinkz Skull (Default)
+	57: Clinkz Bow (Default)
+	58: Clinkz Shoulder Pads (Default)
+	59: Clinkz Quiver (Default)
+	60: Clinkz Horns (Default)
+	61: Clinkz Gloves (Default)
+
+npc_dota_hero_crystal_maiden
+	311: Crystal Maiden's Headdress (Default)
+	38: Crystal Maiden's Cape (Default)
+	39: Crystal Maiden's Shoulder Pads (Default)
+	40: Crystal Maiden's Weapon (Default)
+	41: Crystal Maiden's Cuffs (Default)
+	502: Crystal Maiden's Ambient Effects (Default)
+
+npc_dota_hero_dark_seer
+	348: Dark Seer's Spikes (Default)
+	349: Dark Seer's Head (Default)
+	350: Dark Seer's Bracers (Default)
+	351: Dark Seer's Loin Cloth (Default)
+	352: Dark Seer's Neck Armor (Default)
+	524: Dark Seer's Ambient Effects (Default)
+
+npc_dota_hero_dazzle
+	263: Dazzle's Mohawk (Default)
+	264: Dazzle's Staff (Default)
+	265: Dazzle's Skirt (Default)
+	266: Dazzle's Sleeve (Default)
+	468: Dazzle's Shoulders (Default)
+
+npc_dota_hero_death_prophet
+	168: Death Prophet's Dress (Default)
+	169: Death Prophet's Hair (Default)
+	170: Death Prophet's Corset (Default)
+	171: Death Prophet's Scarf (Default)
+	505: Death Prophet's Ambient Effects (Default)
+	568: Death Prophet's Head (Default)
+	569: Death Prophet's Miscellaneous (Default)
+	8651: Death Prophet's Death Spirits (Default)
+
+npc_dota_hero_disruptor
+	142: Disruptor's Weapon (Default)
+	143: Disruptor's Bracers (Default)
+	144: Disruptor's Hair (Default)
+	145: Disruptor's Back (Default)
+	146: Disruptor's Shoulder Armor (Default)
+	147: Disruptor's Mount (Default)
+	525: Disruptor's Ambient Effects (Default)
+
+npc_dota_hero_doom_bringer
+	232: Doom's Weapon (Default)
+	233: Doom's Helmet (Default)
+	234: Doom's Shoulder Armor (Default)
+	235: Doom's Bracers (Default)
+	236: Doom's Belt (Default)
+	237: Doom's Wings (Default)
+	238: Doom's Tail (Default)
+
+npc_dota_hero_dragon_knight
+	63: Dragon Knight's Helmet (Default)
+	64: Dragon Knight's Shoulder Armor (Default)
+	65: Dragon Knight's Bracers (Default)
+	66: Dragon Knight's Weapon (Default)
+	67: Dragon Knight's Offhand (Default)
+	68: Dragon Knight's Skirt (Default)
+	8647: Dragon Knight's Elder Dragon (Default)
+
+npc_dota_hero_drow_ranger
+	267: Drow's Headwear (Default)
+	75: Drow's Bracers (Default)
+	76: Drow's Cape (Default)
+	77: Drow's Bow (Default)
+	78: Drow's Leg Armor (Default)
+	79: Drow's Quiver (Default)
+	80: Drow's Shoulder Armor (Default)
+
+npc_dota_hero_earth_spirit
+	475: Earth Spirit's Staff (Default)
+	477: Earth Spirit's Head Accessory (Default)
+	479: Earth Spirit's Belt (Default)
+	480: Earth Spirit's Neck (Default)
+	481: Earth Spirit's Arms (Default)
+	482: Earth Spirit's Head (Default)
+	526: Earth Spirit's Ambient Effects (Default)
+	8654: Earth Spirit's Stone Remnant (Default)
+
+npc_dota_hero_earthshaker
+	459: Earthshaker's Totem (Default)
+	460: Earthshaker's Bracers (Default)
+	461: Earthshaker's Belt (Default)
+	8366: All Heroes' Default Pet (Default)
+	8655: Earthshaker's Uncoiffed Head (Default)
+
+npc_dota_hero_elder_titan
+	426: Elder Titan's Weapon (Default)
+	427: Elder Titan's Bracers (Default)
+	428: Elder Titan's Head (Default)
+	429: Elder Titan's Shoulders (Default)
+	430: Elder Titan's Back Totem (Default)
+
+npc_dota_hero_ember_spirit
+	462: Ember Spirit's Head Item (Default)
+	469: Ember Spirit's Shoulders (Default)
+	471: Ember Spirit's Belt Item (Default)
+	472: Ember Spirit's Main Weapon (Default)
+	473: Ember Spirit's Offhand Weapon (Default)
+	474: Ember Spirit's Arms (Default)
+
+npc_dota_hero_enchantress
+	286: Enchantress' Necklace (Default)
+	287: Enchantress' Hair (Default)
+	288: Enchantress' Dress (Default)
+	289: Enchantress' Bracers (Default)
+	290: Enchantress' Weapon (Default)
+
+npc_dota_hero_enigma
+	498: Enigma's Ambient Effects (Default)
+	559: Enigma Bracers (Default)
+	8637: Enigma's Eidolons (Default)
+
+npc_dota_hero_faceless_void
+	15: Faceless Void's Weapon (Default)
+	90: Faceless Void's Head (Default)
+	91: Faceless Void's Shoulder (Default)
+	92: Faceless Void's Bracer (Default)
+	93: Faceless Void's Belt (Default)
+
+npc_dota_hero_furion
+	29: Nature's Prophet Staff (Default)
+	30: Nature's Prophet Horns (Default)
+	31: Nature's Prophet Beard (Default)
+	32: Nature's Prophet Cape (Default)
+	33: Nature's Prophet Necklace (Default)
+	49: Nature's Prophet Bracers (Default)
+	8364: Nature's Prophet Treant (Default)
+
+npc_dota_hero_gyrocopter
+	126: Gyrocopter's Bottles (Default)
+	131: Gyrocopter's head (Default)
+	176: Gyrocopter's Goggles (Default)
+	177: Gyrocopter's Guns (Default)
+	178: Gyrocopter's Propeller (Default)
+	179: Gyrocopter's Homing Missile (Default)
+	527: Gyrocopter's Ambient Effects (Default)
+
+npc_dota_hero_huskar
+	268: Huskar's Spear (Default)
+	269: Huskar's Dagger (Default)
+	270: Huskar's Helmet (Default)
+	271: Huskar's Shoulder (Default)
+	272: Huskar's Bracer (Default)
+
+npc_dota_hero_invoker
+	100: Invoker's Bracer (Default)
+	305: Invoker's Belt (Default)
+	48: Invoker's Cape (Default)
+	8626: Invoker's Forge Spirits (Default)
+	89: Invoker's Shoulder (Default)
+	98: Invoker's Head (Default)
+	99: Invoker's Hair (Default)
+
+npc_dota_hero_juggernaut
+	560: Juggernaut's Healing Ward (Default)
+	6: Juggernaut's Mask (Default)
+	62: Juggernaut's Legs (Default)
+	7: Juggernaut's Weapon (Default)
+	8: Juggernaut's Cape (Default)
+	8366: All Heroes' Default Pet (Default)
+	9: Juggernaut's Bracers (Default)
+
+npc_dota_hero_keeper_of_the_light
+	252: Keeper of the Light Horse (Default)
+	253: Keeper of the Light Staff (Default)
+	254: Keeper of the Light Hood (Default)
+	255: Keeper of the Light Skirt (Default)
+	256: Keeper of the Light Horse Armor (Default)
+	528: Keeper of the Light's Ambient Effects (Default)
+
+npc_dota_hero_kunkka
+	10: Kunkka's Boots (Default)
+	11: Kunkka's Hands (Default)
+	12: Kunkka's Sword (Default)
+	14: Kunkka's Hair (Default)
+	357: Kunkka's Shoulder Guard (Default)
+	81: Kunkka's Spyglass (Default)
+	8656: Kunkka's Back (Default)
+	8657: Kunkka's Neck (Default)
+
+npc_dota_hero_legion_commander
+	431: Legion Commander's Helmet (Default)
+	432: Legion Commander's Shoulder Armor (Default)
+	433: Legion Commander's Banners (Default)
+	434: Legion Commander's Sword (Default)
+	435: Legion Commander's Bracers (Default)
+	8366: All Heroes' Default Pet (Default)
+
+npc_dota_hero_leshrac
+	345: Leshrac's Armor (Default)
+	346: Leshrac's Head (Default)
+	347: Leshrac's Tail (Default)
+	529: Leshrac's Ambient Effects (Default)
+	570: Leshrac's Miscellaneous (Default)
+	591: Leshrac's Weapon (Default)
+
+npc_dota_hero_lich
+	331: Lich's Belt (Default)
+	332: Lich's Neck (Default)
+	333: Lich's Bracers (Default)
+	334: Lich's Back (Default)
+	506: Lich's Ambient Effects (Default)
+	571: Lich's Head (Default)
+
+npc_dota_hero_life_stealer
+	443: Lifestealer's Belt (Default)
+	444: Lifestealer's Chains (Default)
+	530: Lifestealer's Ambient Effects (Default)
+	8658: Lifestealer's Head (Default)
+	8659: Lifestealer's Back (Default)
+
+npc_dota_hero_lina
+	318: Lina's Jewelry (Default)
+	319: Lina's Hair (Default)
+	320: Lina's Sleeves (Default)
+	321: Lina's Dress (Default)
+	504: Lina's Ambient Effects (Default)
+
+npc_dota_hero_lion
+	365: Lion's Weapon (Default)
+	366: Lion's Cape (Default)
+	368: Lion's Shoulders (Default)
+	369: Lion's Demon Arm (Default)
+	572: Lion's Head (Default)
+
+npc_dota_hero_lone_druid
+	107: Lone Druid's Hair (Default)
+	108: Lone Druid's Shoulder Armor (Default)
+	109: Lone Druid's Bracers (Default)
+	110: Lone Druid's Tunic (Default)
+	219: Lone Druid's Weapon (Default)
+	8368: Lone Druid's Spirit Bear (Default)
+	8648: Lone Druid's True Form (Default)
+
+npc_dota_hero_luna
+	448: Luna's Weapon (Default)
+	449: Luna's Shield (Default)
+	450: Luna's Helmet (Default)
+	451: Luna's Shoulder Armor (Default)
+	452: Luna's Mount (Default)
+	453: Luna's Head (Default)
+
+npc_dota_hero_lycan
+	206: Lycan's Blades (Default)
+	207: Lycan's Head (Default)
+	208: Lycan's Armor (Default)
+	209: Lycan's Fur (Default)
+	210: Lycan's Belt (Default)
+	8369: Lycan's Wolves (Default)
+	8649: Lycan's Shapeshift (Default)
+	8660: Lycan's Head Accessory (Default)
+
+npc_dota_hero_magnataur
+	326: Magnus' Hair (Default)
+	327: Magnus' Horn (Default)
+	328: Magnus' Bracers (Default)
+	329: Magnus' Belt (Default)
+	330: Magnus' Weapon (Default)
+
+npc_dota_hero_medusa
+	381: Medusa's Bow (Default)
+	382: Medusa's Veil (Default)
+	383: Medusa's Chest Armor (Default)
+	384: Medusa's Bracers (Default)
+	385: Medusa's Tail (Default)
+	531: Medusa's Ambient Effects (Default)
+
+npc_dota_hero_meepo
+	104: Meepo's Weapon (Default)
+	296: Meepo's Hood (Default)
+	297: Meepo's Backpack (Default)
+	298: Meepo's Shoulderpads (Default)
+	299: Meepo's Bracers (Default)
+	300: Meepo's Tail (Default)
+
+npc_dota_hero_mirana
+	403: Mirana's Bow (Default)
+	404: Mirana's Mount (Default)
+	405: Mirana's Headdress (Default)
+	406: Mirana's Cape (Default)
+	407: Mirana's Shoulders (Default)
+	408: Mirana's Bracers (Default)
+	409: Mirana's Quiver (Default)
+
+npc_dota_hero_morphling
+	507: Morphling's Ambient Effects (Default)
+	573: Morphling's Head (Default)
+	574: Morphling's Shoulders (Default)
+	575: Morphling's Back (Default)
+	576: Morphling's Arms (Default)
+	577: Morphling's Miscellaneous (Default)
+
+npc_dota_hero_naga_siren
+	191: Naga Siren's Head (Default)
+	192: Naga Siren's Sword (Default)
+	193: Naga Siren's Tail (Default)
+	194: Naga Siren's Armor (Default)
+	312: Naga Siren's Offhand Sword (Default)
+	532: Naga Siren's Ambient Effects (Default)
+
+npc_dota_hero_necrolyte
+	211: Necrophos' Sickle (Default)
+	212: Necrophos' Beard (Default)
+	213: Necrophos' Headdress (Default)
+	214: Necrophos' Vestments (Default)
+	508: Necrophos' Ambient Effects (Default)
+
+npc_dota_hero_nevermore
+	387: Shadow Fiend's Head (Default)
+	486: Shadow Fiend's Shoulders (Default)
+	488: Shadow Fiend's Arms (Default)
+	509: Shadow Fiend's Ambient Effects (Default)
+
+npc_dota_hero_night_stalker
+	337: Nightstalker's Wings (Default)
+	338: Nightstalker's Armor (Default)
+	339: Nightstalker's Tail (Default)
+	8661: Nightstalker's Head (Default)
+	8662: Nightstalker's Arms (Default)
+
+npc_dota_hero_nyx_assassin
+	195: Nyx's Claws (Default)
+	196: Nyx's Armor (Default)
+	197: Nyx's Helmet (Default)
+	578: Nyx's Miscellaneous (Default)
+
+npc_dota_hero_obsidian_destroyer
+	187: Outworld Devourer's Horns (Default)
+	188: Outworld Devourer's Armor (Default)
+	189: Outworld Devourer's Weapon (Default)
+	190: Outworld Devourer's Wings (Default)
+	226: Outworld Devourer's Head (Default)
+	533: Outworld Devourer's Ambient Effects (Default)
+
+npc_dota_hero_ogre_magi
+	105: Ogre Magi's Weapon (Default)
+	133: Ogre Magi's Cape (Default)
+	134: Ogre Magi's Bracers (Default)
+	135: Ogre Magi's Hats (Default)
+	136: Ogre Magi's Belt (Default)
+	534: Ogre Magi's Ambient Effects (Default)
+
+npc_dota_hero_omniknight
+	13: Omniknight's Bracers (Default)
+	42: Omniknight's Shoulders (Default)
+	43: Omniknight's Cape (Default)
+	44: Omniknight's Weapon (Default)
+	45: Omniknight's Head (Default)
+	46: Omniknight's Hair (Default)
+	562: Omniknight's Miscellaneous (Default)
+
+npc_dota_hero_oracle
+	546: Oracle's Armor (Default)
+	547: Oracle's Back Item (Default)
+	548: Oracle's Head Item (Default)
+	549: Oracle's Weapon (Default)
+	550: Oracle's Ambient Effects (Default)
+
+npc_dota_hero_phantom_assassin
+	137: Phantom Assassin's Helmet (Default)
+	138: Phantom Assassin's Shoulder Pads (Default)
+	139: Phantom Assassin's Cape (Default)
+	140: Phantom Assassin's Weapon (Default)
+	141: Phantom Assassin's Daggers (Default)
+
+npc_dota_hero_phantom_lancer
+	127: Phantom Lancer's Head (Default)
+	128: Phantom Lancer's Belt (Default)
+	129: Phantom Lancer's Gauntlet (Default)
+	130: Phantom Lancer's Shoulderpad (Default)
+	132: Phantom Lancer's Weapon (Default)
+
+npc_dota_hero_phoenix
+	535: Phoenix's Ambient Effects (Default)
+
+npc_dota_hero_puck
+	370: Puck's Wings (Default)
+	371: Puck's Tail (Default)
+	372: Puck's Head (Default)
+	510: Puck's Ambient Effects (Default)
+
+npc_dota_hero_pudge
+	258: Pudge's Back Rings and Apron (Default)
+	259: Pudge's Cleaver (Default)
+	260: Pudge's Left Arm (Default)
+	261: Pudge's Bracer (Default)
+	262: Pudge's Toupee (Default)
+	391: Pudge's Ambient Effects (Default)
+	47: Pudge's Rusty Meathook (Default)
+	470: Pudge's Belt (Default)
+
+npc_dota_hero_pugna
+	153: Pugna's Head (Default)
+	154: Pugna's Cape (Default)
+	155: Pugna's Bracers (Default)
+	156: Pugna's Weapon (Default)
+	157: Pugna's Belt (Default)
+	167: Pugna's Shoulder (Default)
+	511: Pugna's Ambient Effects (Default)
+	8628: Pugna's Nether Ward (Default)
+
+npc_dota_hero_queenofpain
+	26: Queen of Pain's Weapon (Default)
+	82: Queen of Pain's Wings (Default)
+	83: Queen of Pain's Armor (Default)
+	84: Queen of Pain's Hair (Default)
+
+npc_dota_hero_rattletrap
+	231: Clockwerk's Rocket (Default)
+	446: Clockwerk's Weapon (Default)
+	484: Clockwerk's Armor (Default)
+	485: Clockwerk's Head (Default)
+	8635: Clockwerk's Power Cogs (Default)
+
+npc_dota_hero_razor
+	340: Razor's Weapon (Default)
+	341: Razor's Head (Default)
+	342: Razor's Armor (Default)
+	343: Razor's Bracers (Default)
+	344: Razor's Robe (Default)
+	513: Razor's Ambient Effects (Default)
+
+npc_dota_hero_riki
+	163: Riki's Horns (Default)
+	164: Riki's Shoulder Armor (Default)
+	165: Riki's Tail (Default)
+	166: Riki's Gloves (Default)
+	322: Riki's Offhand Dagger (Default)
+	561: Riki's Dagger (Default)
+	8366: All Heroes' Default Pet (Default)
+
+npc_dota_hero_rubick
+	203: Rubick's Staff (Default)
+	204: Rubick's Cape (Default)
+	205: Rubick's Shoulder Armor (Default)
+	419: Rubick's Head (Default)
+	544: Rubick's Ambient Effects (Default)
+
+npc_dota_hero_sand_king
+	180: Sand King's Head (Default)
+	198: Sand King's Shoulders (Default)
+	199: Sand King's Claws (Default)
+	200: Sand King's Legs (Default)
+	201: Sand King's Tail (Default)
+
+npc_dota_hero_shadow_demon
+	396: Shadow Demon's Cape (Default)
+	397: Shadow Demon's Armor (Default)
+	398: Shadow Demon's Belt (Default)
+	399: Shadow Demon's Tail (Default)
+	545: Shadow Demon's Ambient Effects (Default)
+
+npc_dota_hero_shadow_shaman
+	246: Shadow Shaman's Weapon (Default)
+	247: Shadow Shaman's Off-hand Weapon (Default)
+	248: Shadow Shaman's Headdress (Default)
+	249: Shadow Shaman's Armor (Default)
+	250: Shadow Shaman's Belt (Default)
+	251: Shadow Shaman's Head (Default)
+	8370: Shadow Shaman's Serpent Wards (Default)
+
+npc_dota_hero_shredder
+	386: Timbersaw's Hat (Default)
+	388: Timbersaw's Left Arm (Default)
+	389: Timbersaw's Shoulders (Default)
+	390: Timbersaw's Torso (Default)
+	400: Timbersaw's Waist Saw (Default)
+	401: Timbersaw's Armor (Default)
+	402: Timbersaw's Right Arm (Default)
+	537: Timbersaw's Ambient Effects (Default)
+
+npc_dota_hero_silencer
+	27: Silencer's Weapon (Default)
+	28: Silencer's Shield (Default)
+	301: Silencer's Bracers (Default)
+	302: Silencer's Helmet (Default)
+	303: Silencer's Shoulders (Default)
+	304: Silencer's Robe (Default)
+
+npc_dota_hero_skeleton_king
+	148: Wraith King's Head (Default)
+	149: Wraith King's Weapon (Default)
+	150: Wraith King's Shoulder (Default)
+	151: Wraith King's Gauntlet (Default)
+	152: Wraith King's Cape (Default)
+	483: Wraith King's Ambient Effects (Default)
+	500: Wraith King's Chest (Default)
+
+npc_dota_hero_skywrath_mage
+	420: Skywrath Mage's Weapon (Default)
+	421: Skywrath Mage's Head (Default)
+	422: Skywrath Mage's Wings (Default)
+	423: Skywrath Mage's Belt (Default)
+	424: Skywrath Mage's Shoulders (Default)
+	425: Skywrath Mage's Bracers (Default)
+
+npc_dota_hero_slardar
+	273: Slardar Weapon (Default)
+	274: Slardar Fin (Default)
+	275: Slardar Head (Default)
+	276: Slardar Arms (Default)
+	512: Slardar's Ambient Effects (Default)
+
+npc_dota_hero_slark
+	336: Slark's Weapon (Default)
+	353: Slark's Bracers (Default)
+	354: Slark's Shoulder Armor (Default)
+	355: Slark's Cape (Default)
+	356: Slark's Hood (Default)
+	538: Slark's Ambient Effects (Default)
+	8366: All Heroes' Default Pet (Default)
+
+npc_dota_hero_sniper
+	281: Sniper's Weapon (Default)
+	282: Sniper's Cape (Default)
+	283: Sniper's Head Gear (Default)
+	284: Sniper's Shoulder Armor (Default)
+	285: Sniper's Bracers (Default)
+
+npc_dota_hero_spectre
+	323: Spectre's Head (Default)
+	324: Spectre's Dress (Default)
+	325: Spectre's Shoulders (Default)
+	395: Spectre's weapon (Default)
+	539: Spectre's Ambient Effects (Default)
+	579: Spectre's Miscellaneous (Default)
+	580: Spectre's Default Voice (Default)
+
+npc_dota_hero_spirit_breaker
+	106: Spirit Breaker's Head (Default)
+	111: Spirit Breaker's Horns (Default)
+	112: Spirit Breaker's Shoulder Armor (Default)
+	113: Spirit Breaker's Mace (Default)
+	114: Spirit Breaker's Tail (Default)
+	115: Spirit Breaker's Bracers (Default)
+	116: Spirit Breaker's Belt (Default)
+
+npc_dota_hero_storm_spirit
+	308: Storm Spirit's Hat (Default)
+	309: Storm Spirit's Shoulder (Default)
+	310: Storm Spirit's Armor (Default)
+
+npc_dota_hero_sven
+	16: Sven's Mask (Default)
+	17: Sven's Sword (Default)
+	18: Sven's Belt (Default)
+	19: Sven's Gauntlet (Default)
+	20: Sven's Shoulder (Default)
+	581: Sven's Back (Default)
+	8366: All Heroes' Default Pet (Default)
+
+npc_dota_hero_techies
+	394: Techies Bomb Arsenal (Default)
+	487: Techies Spoon Costume (Default)
+	489: Techies Slingshot (Default)
+	490: Techies Cart (Default)
+	491: Techies Squee Costume (Default)
+	492: Techies Spleen Costume (Default)
+	499: Techies Sign (Default)
+
+npc_dota_hero_templar_assassin
+	173: Templar Assassin's Hair (Default)
+	174: Templar Assassin's Shoulders (Default)
+	175: Templar Assassin's Armor (Default)
+	514: Templar Assassin's Ambient Effects (Default)
+	603: Templar Assassin's Weapon (Default)
+
+npc_dota_hero_terrorblade
+	306: Terrorblade's Wings (Default)
+	307: Terrorblade's Weapons (Default)
+	476: Terrorblade's Armor (Default)
+	478: Terrorblade's Head (Default)
+	540: Terrorblade's Ambient Effects (Default)
+	8650: Terrorblade's Demon Form (Default)
+
+npc_dota_hero_tidehunter
+	34: Tidehunter's Bracer (Default)
+	35: Tidehunter's Belt (Default)
+	36: Tidehunter's Anchor (Default)
+	37: Tidehunter's Lunch (Default)
+	582: Tidehunter's Head (Default)
+	583: Tidehunter's Back (Default)
+
+npc_dota_hero_tinker
+	367: Tinker's Right Arm (Default)
+	463: Tinker's Left Arm (Default)
+	464: Tinker's Shoulders (Default)
+	465: Tinker's Helmet (Default)
+	466: Tinker's Head (Default)
+	467: Tinker's Cape (Default)
+	515: Tinker's Ambient Effects (Default)
+
+npc_dota_hero_tiny
+	493: Tiny's Head (Default)
+	494: Tiny's Body (Default)
+	495: Tiny's Left Arm (Default)
+	496: Tiny's Right Arm (Default)
+	497: Tiny's Tree (Default)
+	516: Tiny's Ambient Effects (Default)
+
+npc_dota_hero_treant
+	227: Treant Protector's Head (Default)
+	228: Treant Protector's Foliage (Default)
+	229: Treant Protector's Hands (Default)
+	230: Treant Protector's Feet (Default)
+
+npc_dota_hero_troll_warlord
+	373: Troll Warlord's Default Weapon (Default)
+	374: Troll Warlord's Default Off-Hand Weapon (Default)
+	379: Troll Warlord's Default Melee Weapon (Default)
+	380: Troll Warlord's Default Melee Off-Hand Weapon (Default)
+	410: Troll Warlord's Default Shoulders (Default)
+	411: Troll Warlord's Default Head (Default)
+	412: Troll Warlord's Default Arms (Default)
+
+npc_dota_hero_tusk
+	413: Tusk's Armored Glove (Default)
+	414: Tusk's Cowl (Default)
+	415: Tusk's Hat (Default)
+	416: Tusk's Tusks (Default)
+	417: Tusk's Weapon (Default)
+	418: Tusk's Fish Basket (Default)
+	541: Tusk's Ambient Effects (Default)
+	8639: Tusk's Frozen Sigil (Default)
+
+npc_dota_hero_undying
+	392: Undying's Helmet (Default)
+	393: Undying's Armor (Default)
+	542: Undying's Ambient Effects (Default)
+	8629: Undying's Tombstone (Default)
+
+npc_dota_hero_ursa
+	584: Ursa's Claws (Default)
+	85: Ursa's Helmet (Default)
+	86: Ursa's Fur (Default)
+	87: Ursa's Bracers (Default)
+	88: Ursa's Belt (Default)
+
+npc_dota_hero_vengefulspirit
+	441: Vengeful Spirit's Hair (Default)
+	442: Vengeful Spirit's Weapon (Default)
+	445: Vengeful Spirit's Upper Armor (Default)
+	447: Vengeful Spirit's Legs (Default)
+	517: Vengeful Spirit's Ambient Effects (Default)
+
+npc_dota_hero_venomancer
+	291: Venomancer's Jaw (Default)
+	292: Venomancer's Shoulders (Default)
+	293: Venomancer's Arms (Default)
+	294: Venomancer's Tail (Default)
+	295: Venomancer's Plague Wards (Default)
+	518: Venomancer's Ambient Effects (Default)
+
+npc_dota_hero_viper
+	519: Viper's Ambient Effects (Default)
+
+npc_dota_hero_visage
+	543: Visage's Ambient Effects (Default)
+	599: Visage's Familiars (Default)
+
+npc_dota_hero_warlock
+	182: Warlock's Golem (Default)
+	239: Warlock's Weapon (Default)
+	240: Warlock's Lantern (Default)
+	241: Warlock's Head (Default)
+	242: Warlock's Shoulder (Default)
+	243: Warlock's Arms (Default)
+	244: Warlock's Robe (Default)
+	245: Warlock's Bag (Default)
+
+npc_dota_hero_weaver
+	277: Weaver's Antennae (Default)
+	278: Weaver's Legs (Default)
+	279: Weaver's Arms (Default)
+	280: Weaver's Back (Default)
+	585: Weaver's Miscellaneous (Default)
+
+npc_dota_hero_windrunner
+	21: Wind Ranger's Head (Default)
+	22: Wind Ranger's Bow (Default)
+	23: Wind Ranger's Shoulder Pads (Default)
+	24: Wind Ranger's Cape (Default)
+	25: Wind Ranger's Quiver (Default)
+
+npc_dota_hero_winter_wyvern
+	551: Winter Wyvern's Headdress (Default)
+	552: Winter Wyvern's Pelt (Default)
+	553: Winter Wyvern''s Ambient Effects (Default)
+
+npc_dota_hero_wisp
+	536: Io's Ambient Effects (Default)
+
+npc_dota_hero_witch_doctor
+	558: Witch Doctor's Death Ward (Default)
+	8367: Witch Doctor's Bare Back (Default)
+	94: Witch Doctor's Head (Default)
+	95: Witch Doctor's Bag (Default)
+	96: Witch Doctor's Belt (Default)
+	97: Witch Doctor's Staff (Default)
+
+npc_dota_hero_zuus
+	589: Zeus' Arms (Default)
+	593: Zeus' Weapon (Default)
+	604: Zeus' Head (Default)
+	605: Zeus Ambient Effects (Default)
+	606: Zeus' Belt (Default)
+	607: Zeus' Back (Default)
+
+npc_dota_invoker_forged_spirit
+	8625: Invoker Forged Spirit's Ambient Effects (Default)
+
+npc_dota_lesser_eidolon
+	8638: Enigma Eidolon's Ambient Effects (Default)
+
+npc_dota_observer_wards
+	7555: Observer Ward Ambient Effects (Default)
+
+npc_dota_pugna_nether_ward
+	8627: Pugna Nether Ward's Ambient Effects (Default)
+
+npc_dota_rattletrap_cog
+	8636: Clockwerk Cog's Ambient Effects (Default)
+
+npc_dota_sentry_wards
+	7556: Sentry Ward Ambient Effects (Default)
+
+npc_dota_shadow_shaman_ward
+	8371: Shadow Shaman Serpent Ward's Ambient Effects (Default)
+
+npc_dota_techies_land_mine
+	8644: Techies Land Mine's Ambient Effects (Default)
+
+npc_dota_techies_minefield_sign
+	8646: Techies Sign's Ambient Effects (Default)
+
+npc_dota_techies_remote_mine
+	8645: Techies Remote Mine's Ambient Effects (Default)
+
+npc_dota_techies_stasis_trap
+	8643: Techies Statis Trap's Ambient Effects (Default)
+
+npc_dota_tusk_frozen_sigil
+	8640: Tusk Frozen Sigil's Ambient Effects (Default)
+
+npc_dota_unit_tombstone
+	8630: Undying Tombstone's Ambient Effects (Default)
+
+npc_dota_visage_familiar
+	600: Visage Familiars' Ambient Effects (Default)
+
+npc_dota_warlock_golem
+	8362: Warlock Golem's Ambient Effects (Default)
+
+npc_dota_witch_doctor_death_ward
+	602: Witch Doctor Ward's Ambient Effects (Default)
+
